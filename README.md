@@ -1,7 +1,9 @@
 ##fellowChat-Client(乡友)
 Java Swing即时通讯软件(C/S)-Client
 采用Java Swing技术实现的桌面聊天软件,客户端部分.定制化UI.
-详细内容: (demo)(http://blog.csdn.net/lcore/article/details/8987625)
+
+**详细内容: http://blog.csdn.net/lcore/article/details/8987625**
+
 ##功能列表
 
 1. 消息发送：用户可以发送消息给好友用户。
