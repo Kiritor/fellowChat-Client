@@ -36,3 +36,6 @@ Java Swing即时通讯软件(C/S)-Client
 4.添加好友界面
 
 <img src="http://img.my.csdn.net/uploads/201511/06/1446801109_7660.png" width="300" heigh="250" align="center" />
+
+
+..........
