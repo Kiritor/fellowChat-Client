@@ -28,4 +28,4 @@ Java Swing即时通讯软件(C/S)-Client
 
 3. 聊天界面
 
-<img src="http://img.my.csdn.net/uploads/201511/06/1446800082_6726.png" align="centerr" />
+<img src="http://img.my.csdn.net/uploads/201511/06/1446800082_6726.png"  width="300" height="225" align="centerr" />
