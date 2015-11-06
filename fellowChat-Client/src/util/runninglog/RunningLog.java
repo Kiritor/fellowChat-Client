@@ -1,0 +1,26 @@
+package util.runninglog;
+
+import java.io.FileOutputStream;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class RunningLog {
+	public static boolean flag = false;
+    public static void record(String msg){
+    	try{
+    		FileOutputStream out = new FileOutputStream("D:\\clientlog.txt",flag);
+    		
+    		Date date = new Date();
+    		SimpleDateFormat f = new SimpleDateFormat("yyyy-MM-dd a  hh:mm:ss");
+    		String str = f.format(date);
+    		
+    		String runningMsg = str+"--->"+msg+"\r\n";
+    		out.write(runningMsg.getBytes());
+    		flag = true;
+    		out.close();
+    		
+    	}catch(Exception e){
+    		e.printStackTrace();
+    	}
+    }
+}
