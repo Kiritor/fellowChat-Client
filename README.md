@@ -2,6 +2,7 @@
 Java Swing即时通讯软件(C/S)-Client
 采用Java Swing技术实现的桌面聊天软件,客户端部分.定制化UI.
 ##功能列表
+
 1. 消息发送：用户可以发送消息给好友用户。
 2. 消息接收：用户可以接收到好友用户发送给他的消息。
 3. 表情编辑：用户可以发送表情给好友，好友可以得到发送的表情
@@ -16,6 +17,15 @@ Java Swing即时通讯软件(C/S)-Client
 12. 消息历史记录
 
 ##相关界面
-1.登录界面
+1. 登录界面
+
 <img src='http://img.my.csdn.net/uploads/201511/06/1446798506_4289.png' width="300" height="200" align="center"/>
 <img src='http://img.my.csdn.net/uploads/201511/06/1446798564_6625.png' width="300" height="200" align="center"/>
+
+2. 主界面
+
+<img src="http://img.my.csdn.net/uploads/201511/06/1446799906_6306.png" align="center" />
+
+3. 聊天界面
+
+<img src="http://img.my.csdn.net/uploads/201511/06/1446800082_6726.png" align="centerr" />
