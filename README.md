@@ -1,6 +1,7 @@
 ##fellowChat-Client(乡友)
 Java Swing即时通讯软件(C/S)-Client
 采用Java Swing技术实现的桌面聊天软件,客户端部分.定制化UI.
+详细内容: (demo)(http://blog.csdn.net/lcore/article/details/8987625)
 ##功能列表
 
 1. 消息发送：用户可以发送消息给好友用户。
@@ -17,15 +18,19 @@ Java Swing即时通讯软件(C/S)-Client
 12. 消息历史记录
 
 ##相关界面
-1. 登录界面
+1.登录界面
 
 <img src='http://img.my.csdn.net/uploads/201511/06/1446798506_4289.png' width="300" height="200" align="center"/>
 <img src='http://img.my.csdn.net/uploads/201511/06/1446798564_6625.png' width="300" height="200" align="center"/>
 
-2. 主界面
+2.主界面
 
 <img src="http://img.my.csdn.net/uploads/201511/06/1446799906_6306.png" align="center" />
 
-3. 聊天界面
+3.聊天界面
 
-<img src="http://img.my.csdn.net/uploads/201511/06/1446800082_6726.png"  width="300" height="225" align="centerr" />
+<img src="http://img.my.csdn.net/uploads/201511/06/1446800082_6726.png"  width="300" height="225" align="center" />
+
+4.添加好友界面
+
+<img src="http://img.my.csdn.net/uploads/201511/06/1446801109_7660.png" width="300" heigh="250" align="center" />
