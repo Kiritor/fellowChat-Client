@@ -2,6 +2,8 @@
 Java Swing即时通讯软件(C/S)-Client
 采用Java Swing技术实现的桌面聊天软件,客户端部分.定制化UI.
 
+服务端:https://github.com/Kiritor/fellowChat-Server
+
 **详细内容: http://blog.csdn.net/lcore/article/details/8987625**
 
 ##功能列表
